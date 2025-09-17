@@ -24,16 +24,16 @@ It demonstrates skills in **data collection, wrangling, visualization, and finan
 ## 📊 Results & Visualizations  
 
 ### Tesla Stock Prices  
-![Tesla Stock](screenshots/plot_0.png)
+![Tesla Stock](https://github.com/Shamir-Havas/Tesla_VS_Gme.ipynb/blob/main/tesla%20stock%20price%20history.png)
 
 ### Tesla Revenue Trends  
-![Tesla Revenue](screenshots/plot_1.png)
+![Tesla Revenue](https://github.com/Shamir-Havas/Tesla_VS_Gme.ipynb/blob/main/tesla%20quaterly%20revenue.png)
 
 ### GameStop Stock Prices  
-![GameStop Stock](screenshots/plot_2.png)
+![GameStop Stock](https://github.com/Shamir-Havas/Tesla_VS_Gme.ipynb/blob/main/gamestop%20stock%20price%20history.png)
 
 ### GameStop Revenue Trends  
-![GameStop Revenue](screenshots/plot_3.png)
+![GameStop Revenue](https://github.com/Shamir-Havas/Tesla_VS_Gme.ipynb/blob/main/gamestop%20quarterly%20revenue.png)
 
 ---
 
