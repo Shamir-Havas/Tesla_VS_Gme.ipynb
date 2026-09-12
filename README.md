@@ -36,9 +36,3 @@ It demonstrates skills in **data collection, wrangling, visualization, and finan
 ![GameStop Revenue](https://github.com/Shamir-Havas/Tesla_VS_Gme.ipynb/blob/main/gamestop%20quarterly%20revenue.png)
 
 ---
-
-## ⚙️ How to Run  
-1. Clone this repo  
-   ```bash
-   git clone https://github.com/yourusername/tesla-vs-gme.git
-   cd tesla-vs-gme
