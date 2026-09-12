@@ -1,4 +1,4 @@
-# 📈 Tesla vs GameStop: Stock & Revenue Analysis  
+# 📈 Tesla vs GameStop: Stock & Revenue Analysis (under work)  
 
 This project analyzes and compares the **historical stock prices** and **revenue trends** of **Tesla (TSLA)** and **GameStop (GME)**.  
 Data was sourced from **Yahoo Finance (yfinance)** and scraped from public websites, then cleaned and visualized with Python.  
